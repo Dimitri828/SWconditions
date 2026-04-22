@@ -62,7 +62,7 @@
     // Selfwork 2 condizioni
     
     
-    let temp = 25
+    let temp = Number(prompt("Quanti gradi ci sono adesso?"));
    
 // if else
     if (temp<20 && temp>=0) {
